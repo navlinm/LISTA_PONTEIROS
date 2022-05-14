@@ -5,7 +5,7 @@ Identifique quais dos seguintes comandos é válido ou inválido:
  
 a. aloha[2] = value; valido
 b. scanf("%f", &aloha); valido
-c. aloha = "value"; invalido
+c. aloha = value; invalido
 d. printf("%f", aloha); valido
 e. coisas[4][4] = aloha[3]; valido
 f. coisas[5] = aloha; invalido
